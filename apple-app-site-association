@@ -20,7 +20,7 @@
           "*/account/my_past_orders",
           "*/account/my_favorites",
           "*/account/my_rewards",
-          "*/account/my_account_info"
+          "*/account/my_account_info",
           "*/sampleDeepLink/"
         ]
       }
